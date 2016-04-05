@@ -2,18 +2,27 @@
     "name": "magento/theme-frontend-blank",
     "description": "N/A",
     "require": {
-        "php": "~5.4.11|~5.5.0",
-        "magento/framework": "0.1.0-alpha107",
+        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "magento/framework": "100.0.*",
         "magento/magento-composer-installer": "*"
     },
     "type": "magento2-theme",
-    "version": "0.1.0-alpha107",
-    "extra": {
+    "version": "0.1.0-beta1",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+    /*"extra": {
         "map": [
             [
                 "*",
                 "frontend/Magento/blank"
             ]
         ]
-    }
+    }*/
 }
