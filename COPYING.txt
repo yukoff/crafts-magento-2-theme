@@ -1,0 +1,7 @@
+Each source file included in this distribution is licensed under OSL 3.0 or the AFL 3.0 license
+
+http://opensource.org/licenses/osl-3.0.php  Open Software License 3.0 (OSL-3.0)
+http://opensource.org/licenses/afl-3.0.php  Academic Free License 3.0 (AFL-3.0)
+
+Please see LICENSE.txt for the full text of the OSL 3.0 license or LICENSE_AFL.txt for the full text of the AFL 3.0
+license, or check the urls provided above for a copy.
